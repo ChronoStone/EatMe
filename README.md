@@ -1,5 +1,5 @@
-# EatMe
-Food Selling App - React Native Expo
+# EatMe - Food Selling App - React Native Expo
+
 ![Screenshot_20221011-163534_FoodSellApp](https://user-images.githubusercontent.com/95769028/195139278-4fc127ac-eb9c-47fc-865c-6dfcb68fa2c0.jpg)
 ![Screenshot_20221011-163545_FoodSellApp](https://user-images.githubusercontent.com/95769028/195139540-14b1ea80-a95e-4950-a1f7-d52e7824e088.jpg)
 ![Screenshot_20221011-163553_FoodSellApp](https://user-images.githubusercontent.com/95769028/195139553-82fa6531-aba3-43cd-8cda-9c516b3ff23f.jpg)
